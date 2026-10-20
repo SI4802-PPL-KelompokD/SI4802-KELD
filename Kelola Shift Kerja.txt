@@ -1,0 +1,10 @@
+Rizky Ananda Herly
+102022400038
+Kelola Shift Kerja
+
+User story
+Sebagai admin, Ketika saya mengatur shift kerja, saya mau membuat dan meliat jadwal agar memudahkan saya untuk mengatur jadwal kerja saya setiap hari
+Context
+Memudahkan saya untuk mengatur jadwal kerja setiap hari
+Acceptance criteria
+Admin bisa mengubah, meliat , membuat jadwal nya secara flexible
